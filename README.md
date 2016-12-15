@@ -1,2 +1,7 @@
 # hello-world
-just another responsitory
+
+
+Hi! 
+
+I am leraning javascript, 
+I wish I can be a good Front-end developer in a few month.
